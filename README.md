@@ -1,2 +1,2 @@
 # KaggleFashionCVAE
-This documents how I used a convolutional variational autoencoder network to explore the latent space of the Kaggle Fashion Dataset. 
+Hey everyone! My name is Alvin Li. I am an MIT undergraduate student studying computer science and working as a deep learning researcher in the MIT Computer Science and Artificial Intelligence Lab (CSAIL). This repository documents how I built, trained, and tested a convolutional variational autoencoder network on the Kaggle Fashion Dataset. I used the model to explore the latent space of over 40,000 RGB fashion images! Take a look at the Jupyter Notebook to see the results!
