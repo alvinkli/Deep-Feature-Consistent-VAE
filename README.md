@@ -3,7 +3,7 @@ Hey everyone! My name is Alvin Li. I am an MIT undergraduate student studying co
 
 After implementing the deep feature VAE network, I used the t-distributed stochastic neighbor embedding (t-SNE) algorithm to embed the high dimensional data onto a lower dimensional space and generate a visualization of the latent space. I also used MatPlotLib to construct an interactive sliders interface and a series of grids that display a smooth linear interpolation of the images and their respective reconstructions across the learned latent space.
 
-The ultimate goal of this project was to build the technology behind an ML tool that powers enhanced customer search queries through scraping online retail data sources (ie. Amazon, Nordstrom, Nike, Target, Walmart). This Github repository captures the proof of concept for this product.
+The ultimate goal of this project was to build the technology behind an ML tool that powers enhanced customer search queries for online retail (ie. Amazon, Nordstrom, Nike, Target, Walmart). This Github repository captures the proof of concept for this product.
 
 Take a look at the Jupyter Notebook to see the results!
 
