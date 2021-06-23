@@ -6,3 +6,5 @@ After implementing the deep feature VAE network, I used the t-distributed stocha
 The ultimate goal of this project was to build the technology behind an ML tool that powers enhanced customer search queries through scraping online retail data sources (ie. Amazon, Nordstrom, Nike, Target, Walmart). This Github repository captures the proof of concept for this product.
 
 Take a look at the Jupyter Notebook to see the results!
+
+https://user-images.githubusercontent.com/40158961/123046671-395cfe80-d3b1-11eb-9037-77c348461c94.mov
